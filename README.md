@@ -5,4 +5,4 @@
 
 
 
-Pet Age Calculator is a simple age calculator which shows your pets age 
+Pet Age Calculator is a simple age calculator which shows your pets age in years
